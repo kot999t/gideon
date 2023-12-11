@@ -9,7 +9,7 @@
 3. Search Nickname in the Internet
 4. Search all downloaded Torrents by IP
 
-# Installation:
+ Installation:
 ``git clone https://github.com/YouVBeenHacked/gideon/``
 
 ``cd gideon``
