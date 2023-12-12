@@ -1,4 +1,4 @@
- update deleted
+ update delete
 # Gideon 
 🧥🔍 Simple tool for searching and collect information written in Python 3
 
