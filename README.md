@@ -1,4 +1,4 @@
-юdeleted
+deleted
 # Gideon 
 🧥🔍 Simple tool for searching and collect information written in Python 3
 
