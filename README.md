@@ -23,3 +23,4 @@
 2. Owned by malorento
 3. Copy without copyrightings will burn your soul
 4. The idea of ``gideon`` is belongs to NezukA
+run Delete
